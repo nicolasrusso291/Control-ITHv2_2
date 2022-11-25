@@ -11,3 +11,5 @@ Librerias necesarias (todas pueden descargarse directamente dentro de Arduino ID
 - "ESP8266 and ESP32 Oled Driver for SSD1306 display" by ThingPulse v4.3.0 (https://github.com/ThingPulse/esp8266-oled-ssd1306)
 - "Firebase Arduino Client Library for ESP8266 and ESP32" by Mobitz v4.0.0 (https://github.com/mobizt/Firebase-ESP-Client)
 - "WiFiManager" by tzapu v2.0.12-beta (https://github.com/tzapu/WiFiManager)
+
+Es muy importante respetar las versiones de las librerias ya que otras generan conflictos.
